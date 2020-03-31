@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;  
     margin:0;
@@ -50,4 +51,58 @@ p {
     margin-right:20px;
     width:200px;
     height:200px;
+=======
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+    margin:0;
+    padding:0;
+	background-color: silver;
+}
+
+a{
+    color:#d21034;
+}
+
+.container{
+    width:1024px;
+    margin:0 auto;
+}
+
+h1 {
+    font-size:28px;
+    margin:0;
+    color:#efeee7;
+    background-color:#333333;
+    text-align:center;
+    padding-top:20px;
+    padding-bottom:20px;
+} 
+
+h2 {
+	font-size: 24px;
+}
+
+p {
+	padding-bottom: .25em;
+	padding-left: 25px;
+}
+
+#main-bio, #contact-info, #bio-image {
+    width:200px;
+        float:left;
+}
+
+#main-bio {
+    width:70%;
+}
+
+#contact-info{
+    width:30%;
+}
+
+#bio-image{
+    margin-right:20px;
+    width:200px;
+    height:200px;
+>>>>>>> e33426d5a0cd9c752107b3018ea58968e277b52a
 }
